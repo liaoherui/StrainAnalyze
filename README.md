@@ -1,2 +1,2 @@
 # StrainAnalyze
-StrainAnalyze: a bioinformatics pipeline used to analyze identified strains in short reads.
+StrainAnalyze: a bioinformatics pipeline used to analyze identified bacterial strains by StrainScan in short reads.
