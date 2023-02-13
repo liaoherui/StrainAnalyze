@@ -10,4 +10,8 @@ Yon can install StrainScan via [Anaconda](https://anaconda.org/) using the comma
 `conda env create -f environment.yaml`<BR/>
 `conda activate strainanalyze`<BR/>
 
+## Usage (Linux or ubuntu only)
+
+`python StrainAnalyze.py -h`<BR/>
+
 
